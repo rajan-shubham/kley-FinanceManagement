@@ -1,0 +1,31 @@
+.dashBord {
+     display: flex;
+     align-items: center;
+     justify-content: space-between
+}
+
+.dashBord_laout {
+     display: flex;
+     align-items: center;
+     margin: 4px 0
+}
+
+.dashBord_names {
+     font-size: 1.2rem;
+     font-weight: 400;
+     margin-left: 10px
+}
+
+.NumberDiv {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 2px 5px;
+     background-color: #b3bab8;
+     border-radius: 5px
+}
+
+.dashBordNo {
+     font-size: 1.2rem;
+     font-weight: 400;
+}

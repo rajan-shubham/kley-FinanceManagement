@@ -1,0 +1,27 @@
+.transition {
+      width: 93%;
+      margin-left: 7%;
+      margin-top: 1.8rem
+}
+
+.transition_heading {
+      font-size: 1.7rem;
+      font-weight: 600;
+      padding-left: .6rem
+}
+
+.table_headDiv {
+      display: flex;
+      align-items: self-start;
+      justify-content: space-between
+}
+
+.table_head_name {
+      font-size: 1.4rem;
+      font-weight: 600
+}
+
+.logo {
+      width: 1.2vw;
+      height: 1vw
+}

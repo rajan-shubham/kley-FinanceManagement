@@ -1,0 +1,11 @@
+.dashBord {
+     display: flex;
+     align-items: center;
+     margin: 2px 0
+}
+
+.dashBord_Name {
+     font-size: 1.2rem;
+     font-weight: 400;
+     margin-left: 10px
+}

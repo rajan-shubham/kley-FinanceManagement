@@ -1,0 +1,106 @@
+ 
+.mainHeading {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 1.2rem
+}
+
+.Transactions {
+
+    font-size: 1.73rem;
+    font-weight: 700
+}
+
+.review {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: .8rem
+}
+
+.route_option {
+    display: flex;
+    align-items: center;
+    margin-top: 1.42rem ;
+}
+
+.routers {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-right: 2.5rem
+}
+.router1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+     align-items: center;
+    margin-right: 2.5rem;
+    padding: 0 1.2rem; 
+       padding-top: 1.2rem;
+     border-top-left-radius: 1.2rem;
+    border-top-right-radius: 1.2rem;
+    box-shadow: 0 -4px 4px -5px #333;
+  
+}
+.router1 a{
+    font-size: 1.24rem;
+    font-weight: 600;
+}
+.router1 span{
+    margin-top: .92rem;
+}
+
+.routers:hover {
+    font-weight: 600;
+
+}
+
+.MainPage_input {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+     border-radius: 1.2rem;
+}
+
+.seletct_option {
+    display: flex;
+    align-items: center;
+    padding: .6rem .85vw;
+    background-color: #f4f4ee;
+    border-top-left-radius: 1.2rem;
+    border-bottom-left-radius: 1.2rem;
+
+
+}
+
+.verious_options {
+    border: none;
+    outline: none;
+    background-color: #f4f4ee;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: .6rem
+}
+
+.horidental_line {
+    width: 1px;
+    height: 2.5rem;
+    background-color: black;
+
+}
+
+.search_input {
+    width: 100%;
+    font-size: 1.2rem;
+     border: none;
+    padding: .6rem .83rem;
+    outline: none;
+ }
+
+.Main_grid {
+    display: grid;
+    grid-template-columns: 29% 71%;
+    gap: 10px;
+    margin-top: 2.4rem
+}

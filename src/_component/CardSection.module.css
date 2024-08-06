@@ -1,0 +1,238 @@
+.card_body {
+    width: 100%;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #e6e6e7;
+    border-radius: 1.2rem;
+      
+}
+
+.card_head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.card_button {
+    display: flex;
+    align-items: center;
+}
+
+.my_card {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-left: .8rem
+}
+
+.my_card_button {
+    display: flex;
+    align-items: center;
+    border: .5px solid black;
+    padding: 3px .5vw;
+    border-radius: 10px
+}
+
+.add_card {
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin-left: .5vw
+}
+
+.card {
+    margin-top: 1.2rem;
+    width: 92%;
+    padding: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_a9UKOATg-w5gaLwT36Hipifx0J8tC_9Mw&s');
+    border-radius: 1.2rem;
+
+}
+
+.kley {
+    color: white;
+
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.Edit {
+    display: flex;
+    align-items: center;
+    margin: 3.8rem 0
+}
+
+.card_no {
+    color: white;
+
+    font-size: 1.6rem ;
+    font-weight: 500;
+    padding-right: 1.2rem
+}
+
+.cardname {
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.card_namecol {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.cvv {
+    color: white;
+
+    display: flex;
+    align-items: center;
+    margin-top: 3px
+}
+
+.exp {
+    color: white;
+
+    display: flex;
+    align-items: center
+}
+
+.card_cvc {
+    color: white;
+
+    display: flex;
+    align-items: center;
+    padding-left: 1.9rem
+}
+
+.card_cvc_no {
+    color: white;
+
+    font-size: 1.3rem;
+    padding-left: .5vw
+}
+
+.card_logo1 {
+    width: 2.2vw;
+    height: 2.2vw;
+    border-radius: 50%;
+    background-color: red
+}
+
+.card_logo2 {
+    width: 2.2vw;
+    height: 2.2vw;
+    border-radius: 50%;
+    background-color: rgb(220, 240, 89);
+    margin-left: -.7vw;
+    opacity: 0.5
+}
+
+.belling {
+    margin-top: 1.3vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.belling_logo {
+    font-size: 1.4rem;
+    height: 1.4vw;
+    align-items: flex-start;
+    align-self: self-start
+}
+
+.belling_add {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: .6rem
+}
+
+.belling_edit {
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    border: .5px solid black;
+    padding: .4vw .8vw;
+    border-radius: 10px
+}
+
+.belling_edit_button {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-left: .5vw
+}
+
+.progress {
+    margin-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: .7vw;
+    
+}
+
+.progress_header {
+    border: .1px solid rgb(176, 173, 173);
+    border-radius: 1.2rem;
+    border-radius: 10px;
+    width: 100%;
+    padding-top: .5vw;
+    text-align: center;
+    align-self: center
+}
+
+.horizental_line {
+    width: 100%;
+    height: .1px;
+    background-color: rgb(179, 177, 177);
+    margin-top: .5vw
+}
+
+.circle1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.frist_progress {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    padding: 2px .83rem;
+}
+
+.frist_progress_div {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    padding-left: .84rem
+}
+
+.circle2 {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    padding: .9rem
+}
+
+.second_progress {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    padding-left: .85rem
+}
+
+.transactions {
+    font-size: .9vw;
+    font-weight: 300
+}
+
+.rs {
+    font-size: 1vw;
+    font-weight: 600
+}
